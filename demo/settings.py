@@ -25,7 +25,7 @@ SECRET_KEY = '^+ca4=f$gnm1%qzwc+m1%n)fgn72=9q*6^f#s9jvb%@qiltgex'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['liamlestrange.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1']
 
 
 # Application definition
